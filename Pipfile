@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 django = "*"
 djangorestframework = "*"
+flake8 = "==3.6.0"
 
 [requires]
 python_version = "3.8"
